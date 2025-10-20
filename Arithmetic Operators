@@ -1,0 +1,6 @@
+// ... assuming x and y are declared as int or a similar numeric type
+x = 2 + 3;  // Returns 5
+y = 8 - 5;  // Returns 3
+x = 5 * 2;  // Returns 10
+x = 5 / 2;  // Returns 2 (integer division)
+y = 10 % 3; // Returns 1

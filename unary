@@ -1,0 +1,8 @@
+int i = 5;
+int j = i++; // j=5, i=6 (postfix: j gets the value *before* increment)
+int k = ++i; // i=7, k=7 (prefix: i is incremented *before* k gets the value)
+
+boolean l = true;
+boolean result = !l; // result is false
+
+l = !result; // now result is true
