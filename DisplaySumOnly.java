@@ -8,7 +8,8 @@ public class DisplaySumOnly {
         int num3 = 2;
         int sum = num1 + num2;
 
-        System.out.println("The sum of " + num1 + " and " + num2 + " is " + sum + ".");
+        System.out.println
+        ("The sum of " + num1 + " and " + num2 + " is " + sum + ".");
         System.out.print(num1 + " and ");
         System.out.print(num2);
         System.out.print(" sum is ");
